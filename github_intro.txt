@@ -9,5 +9,5 @@ Link to RIT SE Website:<a href="https://www.rit.edu/computing/department-softwar
 <ul>
 <li>I'd like to learn how to connect better with SE's outside of Rit</li>
 <li>I'd like to learn how to implement ideas into practice via our projects.</li>
-<li>I'd like to learn how to implement/perform DevOps.</li>
+<li>I'd like to learn how to get better with project Development.</li>
 </ul>
