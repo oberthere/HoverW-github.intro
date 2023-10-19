@@ -1,11 +1,13 @@
-github.intro
+<h1>github.intro</h1>
 
-My name is Hover Wu. I attended Fort Hamilton HighSchool in Brooklyn, NewYork. My hobbies include bowling, fishing, and volleyball.
+<p>My name is Hover Wu. I attended Fort Hamilton HighSchool in Brooklyn, NewYork. My hobbies include bowling, fishing, and volleyball.</p>
 
-Link to RIT SE Website: https://www.rit.edu/computing/department-software-engineering
+Link to RIT SE Website:<a href="https://www.rit.edu/computing/department-software-engineering">Link to RIT SE Website:</a>
 
-Something I'd like to learn from the class:
+<p>Something I'd like to learn from the class:</p>
 
-I'd like to learn how to connect better with SE's outside of Rit
-I'd like to learn how to implement ideas into practice via our projects.
-I'd like to learn how to implement/perform DevOps.
+<ul>
+<li>I'd like to learn how to connect better with SE's outside of Rit</li>
+<li>I'd like to learn how to implement ideas into practice via our projects.</li>
+<li>I'd like to learn how to implement/perform DevOps.</li>
+</ul>
