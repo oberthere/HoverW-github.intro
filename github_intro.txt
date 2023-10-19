@@ -1,8 +1,17 @@
-<h1>github.intro</h1>
+<html>
+<body>
 
-<p>My name is Hover Wu. I attended Fort Hamilton HighSchool in Brooklyn, NewYork. My hobbies include bowling, fishing, and volleyball.</p>
+<h2>
+github.intro
+</h2>
 
-Link to RIT SE Website:<a href="https://www.rit.edu/computing/department-software-engineering">Link to RIT SE Website:</a>
+<p>
+My name is Hover Wu. I attended Fort Hamilton HighSchool in Brooklyn, NewYork. My hobbies include bowling, fishing, and volleyball.
+</p>
+
+<p>
+<a href="https://www.rit.edu/computing/department-software-engineering">Link to RIT SE Website:</a>
+</p>
 
 <p>Something I'd like to learn from the class:</p>
 
@@ -11,3 +20,6 @@ Link to RIT SE Website:<a href="https://www.rit.edu/computing/department-softwar
 <li>I'd like to learn how to implement ideas into practice via our projects.</li>
 <li>I'd like to learn how to get better with project Development.</li>
 </ul>
+
+</body>
+</html>
